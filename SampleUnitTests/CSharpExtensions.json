@@ -1,0 +1,7 @@
+﻿{
+  "CSE005": {
+    "IgnoredReturnTypes": [
+      "FluentAssertions.AndConstraint"
+    ]
+  }
+}
